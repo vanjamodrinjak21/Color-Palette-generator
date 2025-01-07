@@ -1,0 +1,2 @@
+# Color Palette generator
+ App
